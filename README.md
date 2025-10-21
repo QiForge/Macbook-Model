@@ -43,7 +43,7 @@ This isn’t just a demo — it’s an *exercise in patience, observation, and c
 
 ## 📸 Preview
 
-![Preview](assets/preview.png)
+![Preview](assets/macbook.png)
 
 > *A faithful MacBook recreation built entirely in HTML & CSS — pixel by pixel.*
 
